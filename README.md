@@ -15,6 +15,10 @@ This application is using MQTTX platform
 | Type Input(e.g.) | hello world~!  | - |
 | Terminal appear | 📤 Published: hello world~! | 📥 [sensor/3/pos] QoS=1 Retained=False → hello world~! |
 
+## Download the MQTTX 
+- Result will be the same no matter the message is sent from PC python, or directly on Publisher on MQTTX platform, as long as the publish/ subcribe Topic are the same
+<img width="1916" height="844" alt="image" src="https://github.com/user-attachments/assets/7be47022-1371-4f87-b1d1-3299c7c83119" />
+
 ## Additional reference
 https://www.emqx.com/en/blog/the-easiest-guide-to-getting-started-with-mqtt
 
