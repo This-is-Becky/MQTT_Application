@@ -1,6 +1,6 @@
 # MQTT_Application
 Demonstrate a MQTT server and connection setting, sending message from publisher and receive from subcriber.<br>
-Folder "Websocket" suitable for testing/ initall connection or for debug.
+Folder "Websocket" suitable for testing/ initall connection or for debug.<br>
 Folder"SerialToMqtt" is a complete Class funtion code, which can enable the sensor value push to Mqtt via serial com port.
 
 ## Note
